@@ -1,8 +1,5 @@
 # test-babel-plugin-module-resolver
 
-[![dependencies](https://david-dm.org/piecioshka/test-babel-plugin-module-resolver.svg)](https://github.com/piecioshka/test-babel-plugin-module-resolver)
-[![snyk](https://snyk.io/test/github/piecioshka/test-babel-plugin-module-resolver/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/test-babel-plugin-module-resolver?targetFile=package.json)
-
 :ledger: Test app with Babel.js plugin: [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver).
 
 ## Usage
