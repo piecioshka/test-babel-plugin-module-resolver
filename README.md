@@ -14,10 +14,6 @@ npm run start
 Contributions, issues and feature requests are welcome!<br />
 Feel free to check [issues page](/issues/).
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## Related
 
 * [test-jasmine-babel](https://github.com/piecioshka/test-jasmine-babel)
