@@ -26,4 +26,4 @@ Feel free to check [issues page](/issues/).
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
